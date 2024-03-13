@@ -1,0 +1,26 @@
+{
+  "name": "SOLEMUR",
+  "symbol": "LMUR",
+  "description": "THE FAMOUS LEMUR TOUCHING GRASS",
+  "seller_fee_basis_points": 0,
+  "image": 
+"https://www.dropbox.com/scl/fi/4ohexwmutk3oibnmmrn4a/iStock-846232956-46.png?rlkey=z7uz87560cjgd5858wf10zbkk&raw=1",
+  "attributes": [], 
+  "collection": {},
+  "properties": {
+    "files": [
+      {
+        "uri": 
+"https://www.dropbox.com/scl/fi/4ohexwmutk3oibnmmrn4a/iStock-846232956-46.png?rlkey=z7uz87560cjgd5858wf10zbkk&raw=1",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "HuJyPi2GqKj87xc5rP8Lm42VVDzSQJGFk6q2UvLxGyBD", 
+        "share": 100
+      }
+    ]
+  }
+}
